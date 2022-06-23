@@ -1,0 +1,27 @@
+{
+ "compilaçãoOpções": {
+ "alvo": "es2016",
+ "módulo": "commonjs",
+ "rootDir": "./src","
+      "outDir": "./dist",
+ "esModuleInterop": verdade,
+ "forceConsistentCasingInFileNames": verdade,
+ "rigoroso": verdade,
+ "skipLibCheck": verdadeiro
+      }
+  }  
+     "lib": [
+ "es5",
+        "es6"
+     ],
+ "alvo": "es5",
+ "módulo": "commonjs",
+ "resolução do módulo": "nó",
+     "outDir": "./build",
+ "rootDir": "./src","
+ "esModuleInterop":verdade,
+ "emitirDecoratorMetadata": verdade,
+ "ExperimentalDecorators": verdade,
+ "sourceMap": verdade,
+  }
+}
